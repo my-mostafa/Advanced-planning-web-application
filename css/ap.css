@@ -1,0 +1,83 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+ 
+}
+
+.counter {
+    margin: 0 auto;
+    width: 900px;
+    height: 80vh;
+}
+.h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.inpbox {
+    width: inherit;
+
+}
+
+h5 {
+    margin-bottom: 7px;
+}
+input {
+    width: 892px;
+    height: 24px;
+}
+.btnadd {
+    margin-top: 15px;
+    background-color: blue;
+    border-radius: 3px;
+    border-color: blue;
+}
+.btndel {
+    margin-top: 15px;
+    background-color: red;
+    border-radius: 3px;
+    border-color: red;    
+}
+p {
+    width: inherit;
+}
+.box {
+    width: inherit;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(238, 255, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.spbox {
+    width: 700PX;
+}
+
+
+
+.boxbt {
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-right: -15px;
+}
+.combtm {
+    background-color: blue;
+    border-radius: 3px;
+    border-color: blue;
+}
+
+.debtn {
+    background-color: red;
+    border-radius: 3px;
+    border-color: red;
+}
